@@ -96,4 +96,4 @@ https://workflow.is/workflows/7c6b37b20fb34da4aba54025d83df074
 
 ## Contribution
 
-If you find any faults, or have any suggestions for improvement, open an Issue on the Github page. 
+If you find any faults or have suggestions for improvement, open an [Issue](https://github.com/Letterboxd/letterboxd-ios-x-callback-url/issues). 
