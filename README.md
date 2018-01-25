@@ -78,7 +78,7 @@ x-callback-url defines several parameters with specific purposes, all of which a
 
 Some example uses of the URL scheme in action.
 
-### [Drafts](https://agiletortoise.com/drafts/) Actions
+### [Drafts](https://agiletortoise.com/drafts/) actions
 
 — [Search Letterboxd](https://drafts4-actions.agiletortoise.com/a/2LG)
 Search the selected text in the Letterboxd app. Supported values for the type parameter are `film`, `member`, `list`, `review`, `contributor` (cast & crew) or `all`.
@@ -89,7 +89,7 @@ Opens the Letterboxd app and uses the selected text to search for a film to add 
 — [Log on Letterboxd](https://drafts4-actions.agiletortoise.com/a/2LE)
 Converts Markdown text to HTML, then opens the Letterboxd app and performs a search using the title of the note as the film name. Following confirmation of the correct film, a new review is populated.
 
-### [Apple Workflow](https://workflow.is)
+### [Apple Workflow](https://workflow.is) actions
 
 — Adding a review from input (compatible with Apple Watch!)
 https://workflow.is/workflows/7c6b37b20fb34da4aba54025d83df074
