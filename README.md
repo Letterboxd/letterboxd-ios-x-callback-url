@@ -91,8 +91,7 @@ Converts Markdown text to HTML, then opens the Letterboxd app and performs a sea
 
 ### [Apple Workflow](https://workflow.is) actions
 
-— Adding a review from input (compatible with Apple Watch!)
-https://workflow.is/workflows/7c6b37b20fb34da4aba54025d83df074
+— [Create a review from input](https://workflow.is/workflows/7c6b37b20fb34da4aba54025d83df074) (compatible with Apple Watch!)
 
 ## Contribution
 
