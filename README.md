@@ -83,13 +83,15 @@ Some example uses of the URL scheme in action.
 — [Search Letterboxd](https://drafts4-actions.agiletortoise.com/a/2LG)
 Search the selected text in the Letterboxd app. Supported values for the type parameter are `film`, `member`, `list`, `review`, `contributor` (cast & crew) or `all`.
 
-— [Add to Letterboxd Watchlist](https://drafts4-actions.agiletortoise.com/a/2LH)
+— [Add film to watchlist](https://drafts4-actions.agiletortoise.com/a/2LH)
 Opens the Letterboxd app and uses the selected text to search for a film to add to your Watchlist. Following confirmation of the correct title, the film is added to your Watchlist and you are returned to the Drafts app.
 
-— [Log on Letterboxd](https://drafts4-actions.agiletortoise.com/a/2LE)
+— [Log film with review](https://drafts4-actions.agiletortoise.com/a/2LE)
 Converts Markdown text to HTML, then opens the Letterboxd app and performs a search using the title of the note as the film name. Following confirmation of the correct film, a new review is populated.
 
 ### [Apple Workflow](https://workflow.is) actions
+
+— [Search for Film](https://workflow.is/workflows/b2b734228ecc407e8ae2d6a48f10ce07)
 
 — [Create a review from input](https://workflow.is/workflows/7c6b37b20fb34da4aba54025d83df074) (compatible with Apple Watch!)
 
