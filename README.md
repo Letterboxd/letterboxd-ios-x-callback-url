@@ -97,6 +97,8 @@ Converts Markdown text to HTML, then opens the Letterboxd app and performs a sea
 
 — [Add Film to Watchlist](https://workflow.is/workflows/8fd01a9f19c84c20a7403fc15c1a2321)
 
+— [Add multiple Films to Watchlist](https://workflow.is/workflows/c6041fef94234a01bbbe60a8ed45cd34)
+
 — [Log Review from input](https://workflow.is/workflows/7c6b37b20fb34da4aba54025d83df074) (compatible with Apple Watch!)
 
 ## Contribution
