@@ -89,7 +89,9 @@ Opens the Letterboxd app and uses the selected text to search for a film to add 
 — [Log Film with Review](https://drafts4-actions.agiletortoise.com/a/2LE)
 Converts Markdown text to HTML, then opens the Letterboxd app and performs a search using the title of the note as the film name. Following confirmation of the correct film, a new review is populated.
 
-### [Apple Workflow](https://workflow.is) actions
+### Apple Shortcuts (was [Workflow](https://workflow.is))
+
+As of iOS 12, our native app supports a few simple Shortcuts (search, log a film, add to watchlist) which get donated to the system as you perform them. The workflows below employ the older x-callback-url approach from the Workflow app and are for more advanced use:
 
 — [Search for Film](https://workflow.is/workflows/b2b734228ecc407e8ae2d6a48f10ce07)
 
