@@ -57,7 +57,7 @@ A rating from 0.5 to 5, at 0.5 intervals. 0 is interpreted as no rating.
 - **like** (_optional_ BOOLEAN)
 Indicates that your relationship to the film should be updated to show that you liked the film.
 
-- **shareOnFacebook** (_optional_ BOOLEAN)
+- ~~shareOnFacebook~~ (_optional_ BOOLEAN) `DEPRECATED`
 Enables sharing of the review to Facebook. Only valid if `review` is specified and you have also linked a Facebook account to your profile in [Settings](https://letterboxd.com/settings/connections/).
 
 _Note: For Boolean parameters, use `true` or `false` as parameter values, e.g. `rewatch=true`_
